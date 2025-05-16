@@ -1,0 +1,14 @@
+<form [formGroup]="transactionForm" (ngSubmit)="onSubmit()">
+  <label for="date">Date:</label>
+  <input type="date" id="date" formControlName="date" />
+
+  <label for="description">Description:</label>
+  <input type="text" id="description" formControlName="description" />
+
+  <label for="amount">Amount:</label>
+  <input type="number" id="amount" formControlName="amount" step="0.01" />
+
+  <button type="submit">Submit</button>
+</form>
+
+<p>{{ resultMessage }}</p>
