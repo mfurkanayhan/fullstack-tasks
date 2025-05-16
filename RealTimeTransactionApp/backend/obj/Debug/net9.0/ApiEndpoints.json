@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "backend.Controllers.TransactionController",
+    "Method": "Save",
+    "RelativePath": "api/Transaction/Save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transaction",
+        "Type": "backend.Models.Transaction",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

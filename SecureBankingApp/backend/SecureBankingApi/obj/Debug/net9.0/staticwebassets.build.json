@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TvNeJjZjAvN+ZHKUmvCPU5kyG9VgY2FDtN4zvH9BM4M=",
+  "Source": "SecureBankingApi",
+  "BasePath": "_content/SecureBankingApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
